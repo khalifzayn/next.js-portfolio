@@ -2,6 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Technology used:
+Next.js
+TypeScript 
+Tailwind CSS
+
 First, run the development server:
 
 ```bash
@@ -13,6 +18,13 @@ pnpm dev
 # or
 bun run dev
 ```
+
+Link https://vercel.com/khalifzayns-projects/next-js-portfolio
+
+Features that have been implemented:
+Setup Project Structure
+Add Hero Section UI
+Responsive Layout Adjustments
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
